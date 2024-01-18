@@ -38,7 +38,7 @@ const Footer = () => {
                     size: "sm",
                   })}
                 >
-                  Termini d'uso
+                  Termini d&apos;uso
                 </Link>
 
                 <Link

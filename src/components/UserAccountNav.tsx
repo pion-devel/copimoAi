@@ -71,7 +71,7 @@ const UserAccountNav = async ({
 
         <DropdownMenuItem asChild>
           {subscriptionPlan?.isSubscribed ? (
-            <Link href="/dashboard/billing">Gestisci l'abbonamento</Link>
+            <Link href="/dashboard/billing">Gestisci l&apos;abbonamento</Link>
           ) : (
             <Link href="/pricing">
               Passare al piano Pro - Per studenti{" "}

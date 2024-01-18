@@ -103,16 +103,16 @@ const Messages = ({ fileId }: MessagesProps) => {
                 Ciao e benvenuto su Copimo 🚀
               </h5>
               <p className="text-zinc-500 text-sm">
-                🚀 Pronto per un'avventura folle tra i tuoi documenti? Mettiamo
-                su uno spettacolo di intelligenza artificiale! ✨ Facci domande
-                e faremo ridere persino i libri di testo! 😄
+                🚀 Pronto per un&apos;avventura folle tra i tuoi documenti?
+                Mettiamo su uno spettacolo di intelligenza artificiale! ✨ Facci
+                domande e faremo ridere persino i libri di testo! 😄
               </p>
               <p className="text-zinc-500 text-sm mt-2">
                 <span className="font-bold tracking-tight text-gray-900 dark:text-white">
                   ✏️ Fai domande dirette:
                 </span>{" "}
                 Puoi porre domande specifiche sul tuo documento usando la chat.
-                Copimo utilizzerà l'IA per fornirti risposte utili.
+                Copimo utilizzerà l&apos;IA per fornirti risposte utili.
               </p>
               <p className="text-zinc-500 text-sm mt-2">
                 <span className="font-bold tracking-tight text-gray-900 dark:text-white">

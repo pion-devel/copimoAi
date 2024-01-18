@@ -30,8 +30,8 @@ const Page = () => {
           <p>
             Per utilizzare Copimo è necessario caricare un documento sul
             servizio. Copimo riconoscerà il testo del documento e creerà
-            un'interfaccia di chat. L&apos;utente può quindi interagire con il
-            documento attraverso la chat.
+            un&apos;interfaccia di chat. L&apos;utente può quindi interagire con
+            il documento attraverso la chat.
           </p>
           <br></br>
           <h3 className="font-bold text-base mb-4">4. Contenuti e privacy</h3>
@@ -60,7 +60,7 @@ const Page = () => {
           <p>
             L&apos;utente può interrompere l&apos;utilizzo di Copimo in
             qualsiasi momento. Per interrompere l&apos;utilizzo di Copimo è
-            necessario cancellare l'account.
+            necessario cancellare l&apos;account.
           </p>
           <br></br>
           <h3 className="font-bold text-base mb-4">
