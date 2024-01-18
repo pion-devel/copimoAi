@@ -47,7 +47,7 @@ export function constructMetadata({
       creator: "Liady fouad",
     },
     icons,
-    // metadataBase: new URL("https://copimo-v2.vercel.app/"),
+    // metadataBase: new URL("https://-v2.vercel.app/"),
     metadataBase: new URL("https://www.Kopimo.it/"),
     themeColor: "#FFF",
     ...(noIndex && {
