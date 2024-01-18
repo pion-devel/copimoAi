@@ -100,7 +100,7 @@ const Messages = ({ fileId }: MessagesProps) => {
           <div className="block max-w-sm p-6 mt-4 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
             <p className="font-normal text-gray-700 dark:text-gray-400">
               <h5 className="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-white">
-                Ciao e benvenuto su Copimo 🚀
+                Ciao e benvenuto su Kopimo 🚀
               </h5>
               <p className="text-zinc-500 text-sm">
                 🚀 Pronto per un&apos;avventura folle tra i tuoi documenti?
@@ -112,14 +112,14 @@ const Messages = ({ fileId }: MessagesProps) => {
                   ✏️ Fai domande dirette:
                 </span>{" "}
                 Puoi porre domande specifiche sul tuo documento usando la chat.
-                Copimo utilizzerà l&apos;IA per fornirti risposte utili.
+                Kopimo utilizzerà l&apos;IA per fornirti risposte utili.
               </p>
               <p className="text-zinc-500 text-sm mt-2">
                 <span className="font-bold tracking-tight text-gray-900 dark:text-white">
                   ✏️ Chiedi suggerimenti per le domande:
                 </span>{" "}
                 Se hai difficoltà a trovare domande pertinenti, chiedi
-                semplicemente a Copimo di suggerirti domande interessanti che
+                semplicemente a Kopimo di suggerirti domande interessanti che
                 potresti fare sul tuo documento..🤗
               </p>
             </p>

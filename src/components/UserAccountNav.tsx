@@ -80,7 +80,7 @@ const UserAccountNav = async ({
           )}
         </DropdownMenuItem>
         <DropdownMenuItem asChild>
-          <p>Assistenza: info@copimo.it</p>
+          <p>Assistenza: info@kopimo.it</p>
         </DropdownMenuItem>
 
         <DropdownMenuSeparator />

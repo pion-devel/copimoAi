@@ -10,13 +10,13 @@ export function absoluteUrl(path: string) {
   if (typeof window !== "undefined") return path;
   //if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}${path}`;
   //if (process.env.VERCEL_URL) return `https://copimo-v2.vercel.app/${path}`;
-  if (process.env.VERCEL_URL) return `https://www.copimo.it/${path}`;
+  if (process.env.VERCEL_URL) return `https://www.Kopimo.it/${path}`;
   return `http://localhost:${process.env.PORT ?? 3000}${path}`;
 }
 
 export function constructMetadata({
-  title = "Bienvenue sur Copimo, votre assistant PDF intelligent.",
-  description = "Avec Copimo, vous pouvez communiquer avec vos documents de manière intuitive, trouver des informations rapidement et même obtenir des suggestions sur les questions à poser.",
+  title = "Bienvenue sur Kopimo, votre assistant PDF intelligent.",
+  description = "Avec Kopimo, vous pouvez communiquer avec vos documents de manière intuitive, trouver des informations rapidement et même obtenir des suggestions sur les questions à poser.",
   image = "/copimobanner.png",
   icons = "/favicon.ico",
   noIndex = false,
@@ -48,7 +48,7 @@ export function constructMetadata({
     },
     icons,
     // metadataBase: new URL("https://copimo-v2.vercel.app/"),
-    metadataBase: new URL("https://www.copimo.it/"),
+    metadataBase: new URL("https://www.Kopimo.it/"),
     themeColor: "#FFF",
     ...(noIndex && {
       robots: {

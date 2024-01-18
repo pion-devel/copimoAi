@@ -34,7 +34,7 @@ const Page = () => {
         },
         {
           text: "Interfaccia Mobile-friendly.",
-          footnote: "Accedi a Copimo sul tuo dispositivo mobile",
+          footnote: "Accedi a Kopimo sul tuo dispositivo mobile",
         },
         {
           text: "Conversazioni illimitate.",
@@ -69,7 +69,7 @@ const Page = () => {
         },
         {
           text: "Interfaccia Mobile-friendly.",
-          footnote: "Accedi a Copimo sul tuo dispositivo mobile ",
+          footnote: "Accedi a Kopimo sul tuo dispositivo mobile ",
         },
         {
           text: "Conversazioni illimitate.",
@@ -94,7 +94,7 @@ const Page = () => {
             Come scegliere il piano giusto ?
           </h1>
           <p className="mt-5 text-gray-600 sm:text-lg">
-            Se stai solo testando Copimo o se hai bisogno di un numero limitato
+            Se stai solo testando Kopimo o se hai bisogno di un numero limitato
             di funzionalità, il piano gratuito è un&apos;ottima opzione. Se
             invece hai bisogno di un numero illimitato di funzionalità o di
             risposte più accurate e complete, il piano a pagamento è la

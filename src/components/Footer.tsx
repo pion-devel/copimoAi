@@ -52,15 +52,15 @@ const Footer = () => {
                 </Link>
 
                 <p>
-                  Contattaci: <b>info@copimo.it</b>{" "}
+                  Contattaci: <b>info@kopimo.it</b>{" "}
                 </p>
               </ul>
             </div>
 
             <span className="block text-sm text-gray-500 mt-6 pb-8 sm:text-center dark:text-gray-400">
               © 2023{" "}
-              <a href="https://www.copimo.it/" className="hover:underline">
-                Copimo™
+              <a href="https://www.Kopimo.it/" className="hover:underline">
+                Kopimo™
               </a>
             </span>
           </MaxWidthWrapper>

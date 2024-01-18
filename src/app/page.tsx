@@ -104,10 +104,10 @@ export default function Home() {
               Ecco come funziona
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Copimo utilizza l&apos;intelligenza artificiale per analizzare il
+              Kopimo utilizza l&apos;intelligenza artificiale per analizzare il
               tuo PDF e rispondere a qualsiasi domanda tu possa avere. Hai
               bisogno di chiarimenti su un concetto? Hai dubbi su un passaggio
-              specifico? Copimo è lì per te, pronto a rispondere.
+              specifico? Kopimo è lì per te, pronto a rispondere.
             </p>
           </div>
         </div>
@@ -167,7 +167,7 @@ export default function Home() {
         <div className="mb-12 mt-28 px-6 lg:px-8">
           <div className="mx-auto max-w-2xl sm:text-center">
             <h2 className="mt-2 font-bold text-4xl text-gray-900 sm:text-5xl">
-              Copimo in poche parole
+              Kopimo in poche parole
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               Preparati per gli esami, ottieni aiuto con i compiti (e rispondi
@@ -219,7 +219,7 @@ export default function Home() {
             <div className="flex flex-col space-y-2 border-l-4 border-zinc-300 py-2 pl-4 md:border-l-0 md:border-t-2 md:pb-0 md:pl-0 md:pt-4">
               <span className="text-xl font-semibold">In qualsiasi lingua</span>
               <span className="mt-2 text-zinc-700">
-                Copimo accetta PDF in qualsiasi lingua e può conversare in
+                Kopimo accetta PDF in qualsiasi lingua e può conversare in
                 qualsiasi lingua.
               </span>
             </div>

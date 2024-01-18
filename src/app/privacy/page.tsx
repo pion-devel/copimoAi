@@ -12,10 +12,10 @@ const Page = () => {
           </div>
           <div className=" text-base mb-4">
             {" "}
-            Copimo è un servizio servizio che permette di chattare con qualsiasi
-            documento attraverso l&apos;intelligenza artificiale. Copimo è
+            Kopimo è un servizio servizio che permette di chattare con qualsiasi
+            documento attraverso l&apos;intelligenza artificiale. Kopimo è
             disponibile in Italia ed è pensato principalmente per gli studenti.
-            Copimo raccoglie i dati personali degli utenti per fornire il
+            Kopimo raccoglie i dati personali degli utenti per fornire il
             servizio. I dati personali degli utenti sono trattati in conformità
             con la normativa vigente in materia di protezione dei dati
             personali.
@@ -24,7 +24,7 @@ const Page = () => {
             <br></br>
           </p>
           <h3 className="font-bold text-base mb-4 mt-4">1. Dati Raccolti:</h3>
-          <p>Copimo raccoglie i seguenti dati personali degli utenti:</p>
+          <p>Kopimo raccoglie i seguenti dati personali degli utenti:</p>
           <br></br>
           <ul>
             <li>
@@ -48,12 +48,12 @@ const Page = () => {
           </p>
           <br></br>
           <ul>
-            <li>▪️ Fornire il servizio di Copimo.</li>
+            <li>▪️ Fornire il servizio di Kopimo.</li>
             <li>
               ▪️ Personalizzare il servizio in base alle esigenze degli utenti.
             </li>
             <li>▪️ Contattare gli utenti per finalità di marketing.</li>
-            <li>▪️ Migliorare il servizio di Copimo.</li>
+            <li>▪️ Migliorare il servizio di Kopimo.</li>
           </ul>
           <h3 className="font-bold text-base mb-4 mt-4">
             3. Condivisione dei dati
@@ -68,12 +68,12 @@ const Page = () => {
               ▪️ Fornitori di servizi tecnici: i fornitori di servizi tecnici
               sono responsabili della manutenzione e dell&apos;aggiornamento del
               software e dell&apos;hardware utilizzati per fornire il servizio
-              di Copimo.
+              di Kopimo.
             </li>
             <li>
               ▪️ Fornitori di servizi di marketing: i fornitori di servizi di
               marketing sono responsabili della gestione delle attività di
-              marketing di Copimo.
+              marketing di Kopimo.
             </li>
           </ul>
           <h3 className="font-bold text-base mb-4 mt-4">
@@ -90,31 +90,31 @@ const Page = () => {
             <li>
               {" "}
               ▪️ Diritto di accesso: gli utenti hanno il diritto di richiedere a
-              Copimo l&apos;accesso ai propri dati personali.
+              Kopimo l&apos;accesso ai propri dati personali.
             </li>
             <li>
               ▪️ Diritto di rettifica: gli utenti hanno il diritto di richiedere
-              a Copimo la rettifica dei propri dati personali in caso di
+              a Kopimo la rettifica dei propri dati personali in caso di
               inesattezza o incompletezza.
             </li>
             <li>
               ▪️ Diritto alla cancellazione: gli utenti hanno il diritto di
-              richiedere a Copimo la cancellazione dei propri dati personali.
+              richiedere a Kopimo la cancellazione dei propri dati personali.
             </li>
             <li>
               ▪️ Diritto alla limitazione del trattamento: gli utenti hanno il
-              diritto di richiedere a Copimo di limitare il trattamento dei
+              diritto di richiedere a Kopimo di limitare il trattamento dei
               propri dati personali.
             </li>
             <li>
               ▪️ Diritto alla portabilità dei dati: gli utenti hanno il diritto
-              di richiedere a Copimo di ricevere i propri dati personali in un
+              di richiedere a Kopimo di ricevere i propri dati personali in un
               formato strutturato, di uso comune e leggibile da dispositivo
               automatico.
             </li>
             <li>
               ▪️ Diritto di opposizione: gli utenti hanno il diritto di opporsi
-              al trattamento dei propri dati personali da parte di Copimo.
+              al trattamento dei propri dati personali da parte di Kopimo.
             </li>
           </ul>
           <h3 className="font-bold text-base mb-4 mt-4">
@@ -122,14 +122,14 @@ const Page = () => {
           </h3>
           <p>
             Gli utenti possono esercitare i propri diritti in relazione ai
-            propri dati personali contattando Copimo all&apos;indirizzo e-mail :
-            info@copimo.it
+            propri dati personali contattando Kopimo all&apos;indirizzo e-mail :
+            info@kopimo.it
           </p>
           <h3 className="font-bold text-base mb-4 mt-4">
             6. Sicurezza dei dati
           </h3>
           <p>
-            Copimo adotta misure di sicurezza tecniche e organizzative per
+            Kopimo adotta misure di sicurezza tecniche e organizzative per
             proteggere i dati personali degli utenti da accessi non autorizzati,
             divulgazione, modifica o distruzione.
           </p>
@@ -137,14 +137,14 @@ const Page = () => {
             7. Modifiche alla Privacy Policy
           </h3>
           <p>
-            Copimo può modificare la presente Privacy Policy in qualsiasi
-            momento. Le modifiche saranno pubblicate sul sito web di Copimo e
+            Kopimo può modificare la presente Privacy Policy in qualsiasi
+            momento. Le modifiche saranno pubblicate sul sito web di Kopimo e
             saranno in vigore dalla data di pubblicazione.
           </p>
           <h3 className="font-bold text-base mb-4 mt-4">8. Contatti</h3>
           <p>
-            Per qualsiasi richiesta o informazione è possibile contattare Copimo
-            all&apos;indirizzo e-mail : info@copimo.it
+            Per qualsiasi richiesta o informazione è possibile contattare Kopimo
+            all&apos;indirizzo e-mail : info@Kopimo.it
           </p>
         </div>
       </MaxWidthWrapper>
