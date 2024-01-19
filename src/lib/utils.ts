@@ -17,7 +17,7 @@ export function absoluteUrl(path: string) {
 export function constructMetadata({
   title = "Bienvenue sur Kopimo, votre assistant PDF intelligent.",
   description = "Avec Kopimo, vous pouvez communiquer avec vos documents de manière intuitive, trouver des informations rapidement et même obtenir des suggestions sur les questions à poser.",
-  image = "/copimobanner.png",
+  image = "banner.png",
   icons = "/favicon.ico",
   noIndex = false,
 }: {

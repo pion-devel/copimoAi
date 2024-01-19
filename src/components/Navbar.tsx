@@ -20,7 +20,7 @@ const Navbar = () => {
       <MaxWidthWrapper>
         <div className="flex h-14 items-center justify-between border-b border-zinc-200">
           <Link href="/" className="flex z-40 font-semibold">
-            <Image src="/logo2.png" alt="Logo" width={150} height={50} />
+            <Image src="/kopimologo.png" alt="Logo" width={150} height={50} />
           </Link>
 
           <MobileNav isAuth={!!user} />

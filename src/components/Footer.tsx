@@ -18,7 +18,12 @@ const Footer = () => {
           <MaxWidthWrapper>
             <div className="flex h-14 items-center justify-between border-b border-zinc-200">
               <Link href="/" className="flex z-40 font-semibold">
-                <Image src="/logo2.png" alt="Logo" width={150} height={50} />
+                <Image
+                  src="/kopimologo.png"
+                  alt="Logo"
+                  width={150}
+                  height={50}
+                />
               </Link>
               <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                 <Link

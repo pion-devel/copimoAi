@@ -38,7 +38,7 @@ const Page = () => {
         },
         {
           text: "Conversazioni illimitate.",
-          // negative: true,
+          negative: true,
         },
         {
           text: "Ricevi risposte informative e pertinenti.",
@@ -73,6 +73,7 @@ const Page = () => {
         },
         {
           text: "Conversazioni illimitate.",
+          negative: false,
         },
         {
           text: "Ricevi risposte informative e pertinenti.",
