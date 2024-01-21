@@ -120,7 +120,7 @@ const Messages = ({ fileId }: MessagesProps) => {
                 </span>{" "}
                 Se hai difficoltà a trovare domande pertinenti, chiedi
                 semplicemente a Kopimo di suggerirti domande interessanti che
-                potresti fare sul tuo documento..🤗
+                potresti fare sul tuo documento..
               </p>
             </p>
           </div>
