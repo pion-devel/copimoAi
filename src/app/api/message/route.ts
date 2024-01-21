@@ -70,7 +70,9 @@ export const POST = async (req: NextRequest) => {
     role: msg.isUserMessage ? ("user" as const) : ("assistant" as const),
     content: msg.text,
   }));
-  const modifiedMessage = message.toLowerCase().includes("list of questions")
+  const modifiedMessage = message
+    .toLowerCase()
+    .includes("list of questions that you have answers for")
     ? `Help me by providing a list of questions that you have answers for based on the document.` ||
       `Suggest me a list of questions that you have answers for based on the document.` ||
       `Ask the model to formulate a question related to the conclusion or summary of the document`
