@@ -62,7 +62,7 @@ const UploadDropzone = ({ isSubscribed }: { isSubscribed: boolean }) => {
           return toast({
             title: "File troppo grande",
             description:
-              "Il file deve avere una dimensione massima di 2 MB per il piano Free e 16 MB per il piano Pro",
+              "Il file deve avere una dimensione massima di 2 MB per il piano Free e 16 per il piano Pro",
             variant: "destructive",
           });
         }
