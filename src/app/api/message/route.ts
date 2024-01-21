@@ -72,7 +72,11 @@ export const POST = async (req: NextRequest) => {
   }));
   const modifiedMessage = message.toLowerCase().includes("list of questions")
     ? `Help me by providing a list of questions based on the document.` ||
-      `Suggest me a list of questions based on the document.`
+      `Suggest me a list of questions based on the document.` ||
+      `Ask the model to generate a question about the main idea of the document.` ||
+      `Request the model to provide a question related to any key facts mentioned in the document.` ||
+      `Instruct the model to generate a question about a specific topic discussed in the document.` ||
+      `Ask the model to formulate a question related to the conclusion or summary of the document`
     : message;
 
   const response = await openai.chat.completions.create({
