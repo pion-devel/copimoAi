@@ -15,8 +15,8 @@ export function absoluteUrl(path: string) {
 }
 
 export function constructMetadata({
-  title = "Bienvenue sur Kopimo, votre assistant PDF intelligent.",
-  description = "Avec Kopimo, vous pouvez communiquer avec vos documents de manière intuitive, trouver des informations rapidement et même obtenir des suggestions sur les questions à poser.",
+  title = "Benvenuti su Copimo, il vostro assistente PDF intelligente.",
+  description = "Con Copimo, potete interagire con i vostri documenti in modo intuitivo, trovare informazioni rapidamente e persino ricevere suggerimenti su domande da porre. Iscrivetevi in pochi clic per scoprire l'universo di Copimo. È semplice e veloce. Una volta registrati, potrete godere di incredibili funzionalità per interagire con i vostri documenti PDF.",
   image = "banner.png",
   icons = "/favicon.ico",
   noIndex = false,
