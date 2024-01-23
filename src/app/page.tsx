@@ -22,7 +22,7 @@ export default function Home() {
           </p>
         </div>
         <h1 className="max-w-4xl mb-6 text-5xl font-bold md:text-6xl lg:text-7xl">
-          Benvenuti su Copimo,
+          Benvenuti su Kopimo,
           <span className="text-blue-600">il tuo assistente PDF </span>{" "}
           intelligente.
         </h1>
@@ -141,7 +141,7 @@ export default function Home() {
                 Inizia a fare domande.
               </span>
               <span className="mt-2 text-zinc-700">
-                È proprio così facile. Prova Copimo oggi stesso, impiegherai
+                È proprio così facile. Prova Kopimo oggi stesso, impiegherai
                 meno di un minuto.
               </span>
             </div>
