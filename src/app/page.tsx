@@ -154,8 +154,8 @@ export default function Home() {
               <Image
                 src="/dashdocments.png"
                 alt="uploading preview"
-                width={1620}
-                height={920}
+                width={1720}
+                height={1020}
                 quality={100}
                 className="rounded-md bg-white p-2 sm:p-8 md:p-20 shadow-2xl ring-1 ring-gray-900/10"
               />
