@@ -7,7 +7,7 @@ import { buttonVariants } from "@/components/ui/button";
 import Image from "next/image";
 import { CldVideoPlayer } from "next-cloudinary";
 import "next-cloudinary/dist/cld-video-player.css";
-import Landing from "./../../public/copimoBanner.png";
+
 import {
   LoginLink,
   RegisterLink,
@@ -38,7 +38,7 @@ export default function Home() {
               <div className="mt-16 flow-root sm:mt-16">
                 <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
                   <Image
-                    src={Landing}
+                    src="/copimoBanner.png"
                     alt="product preview"
                     width={1364}
                     height={866}
